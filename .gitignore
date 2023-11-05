@@ -17,6 +17,9 @@ apprenda60-express/provisionApprendaTestScript.ps1
 # Visual Studio autosaves
 .vs
 
+# Visual Studio Code autosaves
+.vscode
+
 # emacs autosaves
 auto-save-list
 custom.el
@@ -31,7 +34,6 @@ org-mode-config.el
 .DS_Store
 org-clock-save.el
 emacs-config.el
-.vscode
 node_modules
 Nese_OMS_NEstedforOMSWS.json
 test/template-validation-tests/package-lock.json
